@@ -63,3 +63,9 @@ I'm a computer programmer who enjoys turning ideas into code.
 </div>
 
 ###
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/utsavpatel562/count.svg" />
+</p>
+
+###
