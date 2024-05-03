@@ -1,9 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+Hi 👋 My name is Utsav Patel
+============================
 
-###
+Web Developer / Back-end Developer
+----------------------------------
 
-<p align="left">My name is Utsav and I'm a Computer Programmer, from Canada</p>
+I'm a computer programmer who enjoys turning ideas into code.
 
+* 🌍  I'm based in Greater Toronto Area, CA
+* 🧠  I'm learning TypeScript, React.js, and Material UI
+* 🤝  I'm open to collaborating on SASS Tools and AI Development
 ###
 
 <h2 align="left">About me</h2>
