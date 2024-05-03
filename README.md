@@ -16,7 +16,7 @@ I'm a computer programmer who enjoys turning ideas into code.
 ###
 <div align="center">
   <a href="http://www.github.com/utsavpatel562"><img src="https://github-readme-stats.vercel.app/api?username=utsavpatel562&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="utsavpatel562's GitHub stats" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavpatel562&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  / style="height:200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavpatel562&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  / style="height:180px;">
 </div>
 
 ###
