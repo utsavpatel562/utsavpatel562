@@ -7,7 +7,7 @@ Web Developer / Back-end Developer
 I'm a computer programmer who enjoys turning ideas into code.
 
 * 🌍  I'm based in Greater Toronto Area, CA
-* 🧠  I'm currently learning TypeScript, React.js, and Material UI
+* 🧠  I'm currently learning Python, TypeScript, React.js, and Material UI
 * 🤝  I'm open to collaborating on SAAS Tools, Database, and AI Development
 ###
 
