@@ -1,7 +1,7 @@
 Hi 👋 My name is Utsav Patel
 ============================
 
-Web Developer / Back-end Developer
+Full Stack Developer
 ----------------------------------
 
 I'm a computer programmer who enjoys turning ideas into code.
