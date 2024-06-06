@@ -65,3 +65,9 @@ I'm a computer programmer who enjoys turning ideas into code.
 </div>
 
 ###
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=utsavpatel562&label=Profile%20Views&color=12&icon=6&pretty=true" />
+</a>
+
+###
