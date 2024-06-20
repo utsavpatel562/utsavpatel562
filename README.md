@@ -1,14 +1,14 @@
 Hi 👋 My name is Utsav Patel
 ============================
 
-Full Stack Developer
+MERN Stack Developer
 ----------------------------------
 
 I'm a computer programmer who enjoys turning ideas into code.
 
 * 🌍  I'm based in Greater Toronto Area, CA
 * 🧠  I'm currently learning Next.js, TypeScript, and React.js
-* 🤝  I'm open to collaborating on SAAS Tools, Database, and AI Development
+* 🤝  I'm open to collaborating on SAAS Tools, Database, and Open Source Projects.
 ###
 
 <h2 align="left">About me</h2>
