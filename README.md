@@ -1,7 +1,7 @@
 Hi 👋 My name is Utsav Patel
 ============================
 
-MERN Stack Developer
+Full Stack Developer
 ----------------------------------
 
 I'm a computer programmer who enjoys turning ideas into code.
