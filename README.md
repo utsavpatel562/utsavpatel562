@@ -89,6 +89,29 @@ I'm a computer programmer who enjoys turning ideas into code.
 
 ###
 
+<h2>Connect with me:</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/utsav-patel-coder" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/patelutsav528" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="mailto:utsavpatel562@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/utsavpatel_01/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:200584363@student.georgianc.on.ca" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+###
+
 <a href="https://visitcount.itsvg.in" stlye="width:200px;">
 <center><img src="https://visitcount.itsvg.in/api?id=utsavpatel562&label=Profile%20Views&color=12&icon=6&pretty=true" /></center>
 </a>
