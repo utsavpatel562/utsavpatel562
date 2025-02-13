@@ -21,7 +21,7 @@ I'm a computer programmer who enjoys turning ideas into code.
 
 ###
 
-<h2 align="left">🔥 My Skills</h2>
+<h2 align="left">🔥 I code with</h2>
 
 ###
 
