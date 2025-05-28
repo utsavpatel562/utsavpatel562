@@ -1,7 +1,7 @@
 Hi 👋 My name is Utsav Patel
 ============================
 
-Full Stack Developer <a href="https://utsavportfolio-chi.vercel.app" target="_blank">(Visit my Portfolio)</a>
+Full Stack Developer <a href="https://utsavpatel-portfolio.vercel.app" target="_blank">(Visit my Portfolio)</a>
 ----------------------------------
 
 I'm a computer programmer who enjoys turning ideas into code.
