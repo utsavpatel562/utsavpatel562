@@ -1,12 +1,12 @@
 Hi 👋 My name is Utsav Patel
 ============================
 
-Full Stack Developer <a href="https://utsavpatel-portfolio.vercel.app" target="_blank">(Visit my Portfolio)</a>
+Full Stack Developer <a href="https://utsavpatel-portfolio.vercel.app" target="_blank">(Visit my Portfolio)</a> 💻
 ----------------------------------
 
 I'm a computer programmer who enjoys turning ideas into code.
 
-* 🌍  I'm based in Greater Toronto Area, CA
+* 🌍  I'm based in Greater Toronto Area, Ontario, Canada 
 * 🧠  I'm currently learning Next.js, TypeScript, and React.js
 * 🤝  I'm open to collaborating on SAAS Tools, Database, and Open Source Projects.
 ###
@@ -101,4 +101,3 @@ I'm a computer programmer who enjoys turning ideas into code.
 
 ###
 
-###
