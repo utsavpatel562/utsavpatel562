@@ -7,7 +7,7 @@ Full Stack Developer <a href="https://utsavpatel-portfolio.vercel.app" target="_
 I'm a computer programmer who enjoys turning ideas into code.
 
 * 🌍  I'm based in Greater Toronto Area, Ontario, Canada 
-* 🧠  I'm currently learning Next.js, TypeScript, and React.js
+* 🧠  I'm currently working on AI Development and full stack projects.
 * 🤝  I'm open to collaborating on SAAS Tools, Database, and Open Source Projects.
 ###
 
