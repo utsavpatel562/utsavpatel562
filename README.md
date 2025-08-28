@@ -92,9 +92,6 @@ I'm a computer programmer who enjoys turning ideas into code.
   <a href="https://www.instagram.com/utsavpatel_01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:200584363@student.georgianc.on.ca" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
 ###
