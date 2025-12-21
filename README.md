@@ -12,15 +12,11 @@ I'm a computer programmer who enjoys turning ideas into code.
 ###
 
 ### 📊 GitHub Stats
-<div style="center">
 ![](https://github-readme-stats.vercel.app/api?username=utsavpatel562&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavpatel562&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
 
   
-<h2 align="left">🔥 I code with</h2>
-
-###
+### <h2 align="left">🔥 I code with</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
