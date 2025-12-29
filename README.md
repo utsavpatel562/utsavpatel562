@@ -11,11 +11,6 @@ I'm a computer programmer who enjoys turning ideas into code.
 * 🤝  I'm open to collaborating on SAAS Tools, Database, and Open Source Projects.
 ###
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=utsavpatel562&theme=dark&hide_border=false&include_all_commits=true&count_private=false) &nbsp;&nbsp;&nbsp; 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavpatel562&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-  
 ### <h2 align="left">🔥 I code with</h2>
 
 <div align="center">
